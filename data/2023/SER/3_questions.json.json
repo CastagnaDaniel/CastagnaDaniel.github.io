@@ -1,19 +1,21 @@
 {
     "questions": [
       {
-        "text": "Domanda 1?"
+        "text": "Cosa fa il microprocessore?"
       },
       {
-        "text": "Domanda 2?"
+        "text": "Cos'è un transistor?Che cosa fa?"
       },
       {
-        "text": "Domanda 3?"
+        "text": "Cosa dice la legge di Moore?"
       },
       {
-        "text": "Domanda 4?"
+        "text": "Quali sono le due principali architetture di microprocessori?Quali sono le differenze?"
       },
       {
-        "text": "Domanda 5?"
+        "text": "A cosa serve l'overclocking?Quali sono i pro e contro?"
+      },
+      {
+        "text": "Quali sono le principali tecniche di raffreddamento di un microprocessore?"
       }
-    ]
   } 
